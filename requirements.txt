@@ -1,6 +1,6 @@
 cx-Oracle==8.0.0
 Cython==0.29.20
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 pkg-resources==0.0.0
 psycopg2-binary==2.8.5
